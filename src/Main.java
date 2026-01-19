@@ -5,5 +5,31 @@ public class Main {
         System.out.println("hello");
         System.out.println(":D");
         System.out.println("D:");
+        System.out.println("D:");
+        System.out.println("D:");
+        System.out.println("D:");
+        System.out.println("D:");
+        System.out.println("D:");
+
+        System.out.println("D:");
+        System.out.println("D:");
+        System.out.println("D:");
+        System.out.println("D:");
+        System.out.println("D:");
+        System.out.println("D:");
+        System.out.println("D:");
+        System.out.println("D:");
+
+        System.out.println("D:");
+        System.out.println("D:");
+        System.out.println("D:");
+        System.out.println("D:");
+
+        System.out.println("D:");
+        System.out.println("D:");
+        System.out.println("D:");
+        System.out.println("D:");
+        System.out.println("D:");
+        
         }
     }
